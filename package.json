@@ -1,0 +1,23 @@
+{
+  "name": "react_project",
+  "version": "1.0.0",
+  "description": "front end page constructor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/binyulan/react.git"
+  },
+  "keywords": [
+    "front",
+    "end"
+  ],
+  "author": "auuid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/binyulan/react/issues"
+  },
+  "homepage": "https://github.com/binyulan/react#readme"
+}
